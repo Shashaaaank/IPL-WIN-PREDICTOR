@@ -7,4 +7,4 @@
 ##library used for machine learning: sklearn
 
 #deployed Web App 👇
-[🔗](https://ipl-win-percentage-predictor.herokuapp.com/)
+🔗[Click Here](https://ipl-win-percentage-predictor.herokuapp.com/)
