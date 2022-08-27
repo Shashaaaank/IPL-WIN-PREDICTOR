@@ -1,4 +1,4 @@
-# IPL-ball-by-ball-WIN-PERCENTAGE-PREDICTOR-USING-LOGISTIC-REGRESSION
+#ML based IPL-ball-by-ball-WIN-PERCENTAGE-PREDICTOR-USING-LOGISTIC-REGRESSION
 Predicts the chances of the chasing team in win percentage using per ball data.<br>
  
  [Visit Here🚀](https://ipl-win-percentage-predictor.herokuapp.com/)
